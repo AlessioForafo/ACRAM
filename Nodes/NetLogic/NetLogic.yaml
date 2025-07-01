@@ -10,6 +10,8 @@ Children:
     Type: BehaviourStartPriorityVariableType
     DataType: Byte
     Value: 180
+  - Class: Method
+    Name: AssociaLink
 - Name: FromPlcToModel
   Type: NetLogic
   WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel

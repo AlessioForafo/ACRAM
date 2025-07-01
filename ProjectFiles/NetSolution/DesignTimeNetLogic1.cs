@@ -33,4 +33,12 @@ public class DesignTimeNetLogic1 : BaseNetLogic
             Project.Current.Get("Alarms").Add(allarme);
         }
     }
+
+    [ExportMethod]
+    public void AssociaLink()
+    {
+        var varModello = Project.Current.GetVariable("Model/Variable4");
+        var varPLC = Project.Current.GetVariable("CommDrivers/CODESYSDriver1/CODESYSStation1/Tags/Application/PLC_PRG/incrementa");
+        varModello.SetDynamicLink(varPLC, DynamicLinkMode.ReadWrite);
+    }
 }
