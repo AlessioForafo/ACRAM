@@ -1,0 +1,52 @@
+Name: Translations
+Type: TranslationsCategoryFolder
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [37,4],
+    "Body": [
+     "","en-US","it-IT","ru-RU",
+     "Timestamp","Timestamp","","",
+     "TimedShelve","Timed Shelve","","",
+     "Acknowledge","Acknowledge","","",
+     "Acknowledge All","Acknowledge All","","",
+     "Active","Active","","",
+     "Confirm","Confirm","","",
+     "OneShotShelve","One-Shot Shelve","","",
+     "Confirm All","Confirm All","","",
+     "Name","Name","","",
+     "SourceName","Source Variable","","",
+     "Message","Message","","",
+     "Acked","Acked","","",
+     "Confirmed","Confirmed","","",
+     "Severity","Severity","","",
+     "RecipesEditorStoreOfSchema","Store of schema","","",
+     "Save","Save","","",
+     "Delete","Delete","","",
+     "Load","Load","","",
+     "Apply","Apply","","",
+     "RecipeControllerRecipe","Recipe","","",
+     "RecipeControllerEmptyRecipeName","Recipe name is empty","","",
+     "RecipeControllerCreatedAndSaved","created and saved","","",
+     "RecipeControllerDeleted","deleted","","",
+     "RecipeControllerRecipeApplied","Recipe applied","","",
+     "RecipeControllerRecipeLoaded","Recipe loaded","","",
+     "RecipeControllerSaved","saved","","",
+     "RecipesEditorNotARecipe","is not a recipe","","",
+     "RecipesEditorRecipeSchemaNotFound","RecipeSchema variable not found","","",
+     "RecipesEditorRecipeSchemaNotSet","RecipeSchema not set","","",
+     "RecipesEditorRecipeNotFound","Recipe not found","","",
+     "RecipesEditorNotAStore","is not a store","","",
+     "RecipesEditorNotSet","is not set","","",
+     "RecipesEditorStore","Store","","",
+     "RecipesEditorNotFound","not found","","",
+     "RecipesEditorEditModelOfSchema","EditModel of schema","","",
+     "Hello","Hello","ciao","привет"
+    ]
+   }

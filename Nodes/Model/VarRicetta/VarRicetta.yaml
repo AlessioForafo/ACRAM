@@ -1,0 +1,24 @@
+Name: VarRicetta
+Id: g=bc3834b6b39d5e4a5b3267de2ab24df3
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=42ecb2e48a475b1de8a6aa3d2fe4f7b5
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable2
+  Id: g=4d8605dc22d7064dbcec21e8b1ed1bc0
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable3
+  Id: g=863e6f3fe622a5b6cf4569a802e8bcea
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable4
+  Id: g=4c975d2774418c349964e855245e131a
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable5
+  Id: g=976a9e97f5a2571ba4f516ee4928bd39
+  Type: BaseDataVariableType
+  DataType: Int32

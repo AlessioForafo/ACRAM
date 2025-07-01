@@ -1,0 +1,25 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: ScambioPLC/ScambioPLC.yaml
+- Name: Allarmi
+  Type: BaseDataVariableType
+  DataType: Boolean
+  ValueRank: OneDimension
+  ArrayDimensions: [10]
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable3
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable4
+  Type: BaseDataVariableType
+  DataType: Int32
+- File: VarRicetta/VarRicetta.yaml
+- Name: Pressione
+  Type: BaseDataVariableType
+  DataType: Float
